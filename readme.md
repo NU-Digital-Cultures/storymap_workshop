@@ -114,9 +114,26 @@ __Coal Tubs off the Way | George Brown (c) The Ashington Group Trustees__
 
 `url: https://museumsnorthumberland.org.uk/wp-content/uploads/2023/11/AG017-George-Brown-Coal-Tubs-off-the-Way-Underground-1024x861.jpg`
 
+#### Mining and Engineering Buildings
+![Burth Hall](/images/Burt_Hall.jpeg)
+_Burt Hall, Northumberland Road, NE1. Photo Credit: Mike Quinn_ [source and related images](https://www.geograph.org.uk/stuff/list.php?title=Burt+Hall%2C+Northumberland+Road+&gridref=NZ2564)
 
-#### Sources
+![Neville Hall](/images/Mining_Hall.jpeg)
+_The North of England Institute of Mining and Mechanical Engineers. Photo Credit: Thomas Nugent_ [source](https://www.geograph.org.uk/photo/1111333)
+
+![Stephenson Monument](/images/Stephenson_Monument.jpeg)
+_Stephenson Monument. Source: Newcastle University_ See [co-curate site](https://co-curate.ncl.ac.uk/stephenson-memorial-westgate-road/) for more information and many more images
+
+#### Sources for more images and information
 **Woodhorn Museum** [see collection here](https://museumsnorthumberland.org.uk/woodhorn-museum/)
+
+**Tyne and Wear Archives and Museums**
+This organisation has collected an extraordinary set of images related to various former mining communities, especially as they've been transformed in a "post-mining" UK.
+* [Washington](https://www.flickr.com/photos/twm_news/albums/72157646850449658/)
+* [Westoe Colliery](https://www.flickr.com/photos/twm_news/albums/72157627474432609/)
+    * also on [co-curate](https://co-curate.ncl.ac.uk/westoe-colliery-1909-1993/)
+* [Wearmouth Colliery]( https://www.flickr.com/photos/twm_news/albums/72157627338934894/)
+    * also on [co-curate](https://co-curate.ncl.ac.uk/wearmouth-colliery-1835-1993/)
 
 **Newcastle University** has an excellent digitized collection of etchings of 19th century mining sites -- from the surface -- done by Thomas Hair. The full collection can be viewed on their site [here](https://cdm21051.contentdm.oclc.org/digital/collection/p21051coll19/search?_gl=1*1iv7d99*_ga*MTAwMDI2MTM5Mi4xNzAyNjA2NTE4*_ga_T1LDLFZBFY*MTcxMDIzNDg5NS4xLjEuMTcxMDIzNDkwOC4wLjAuMA..). A few samples relevant to the Coxlodge trail are also included below.
 
