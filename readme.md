@@ -10,7 +10,23 @@ The purpose of this workshop is for students to:
 * reflect on how stories __take place__ by using maps as a way to organize the story
 * become familiar with esri's [StoryMaps platform](https://storymaps.arcgis.com/) as one tool for building a story map
 
-By the end of the workshop, students will have planned, built and tested a story map exploring a dimension (of their choosing) of the public history of coal mining in Newcastle upon Tyne.
+By the end of the workshop, students will have worked in small groups to have planned, built and tested a story map exploring a dimension (of their choosing) of the public history of coal mining in Newcastle upon Tyne.
+
+## Pre-Workshop Preparation
+Students will work in small groups to build a storymap using the storymaps.com platform. Prior to the workshop students should do the following
+* Create a login at storymaps.com
+    * You can use your @ncl.ac.uk email address or any email you'd like, as long as you remember it.
+    * make sure to keep track of your password
+* Explore the resources below. They are organised in two different categories:
+    * [Existing Online Histories of Newcastle](#existing-online-histories-of-mining-in-newcastle)
+        * These are a good way to learn more about how other institutions have documented and narrated the history of mining and its impacts on the city.
+        * They are not technically story maps, but will give you a grounding in the kinds of stories being told with these resources.
+    * [Sources for Images and Information](#sources-for-more-images-and-information)
+        * These are websites and archives that have many more images related to coal mining than those we've included as part of the workshop.
+        * Many also contain more information and context that may be useful in your story.
+*Familiarise yourself with the media used in the workshop.
+    * We will use these initial images and links below to create a storymap. The project will go more smoothly if you've looked over them before the workshop.
+    * Similarly, if you familiarise yourself with the historic OS maps [linked below](#historic-maps), especially the interface for navigating the maps, you will have more time during the workshop to develop your story.
 
 ## Existing Online Histories of Mining in Newcastle
 This is a partial list of existing histories of mining that may be useful for data, context and/or inspiration. Look at these to get a sense of how other organizations have mapped some of this history.
