@@ -17,6 +17,7 @@ Students will work in small groups to build a storymap using the storymaps.com p
 * Create a login at storymaps.com
     * You can use your @ncl.ac.uk email address or any email you'd like, as long as you remember it.
     * make sure to keep track of your password
+* Watch the tutorial video on canvas and explore the sample storymap [here](https://storymaps.com/stories/37f1420ed41544dbbbdf0883723c3187)
 * Explore the resources below. They are organised in two different categories:
     * [Existing Online Histories of Newcastle](#existing-online-histories-of-mining-in-newcastle)
         * These are a good way to learn more about how other institutions have documented and narrated the history of mining and its impacts on the city.
