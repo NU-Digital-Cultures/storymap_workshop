@@ -1,4 +1,4 @@
-# StoryMap Workshop
+# StoryMap Workshop for Newcastle University
 
 ## What is this?
 This repository holds most of the files and links needed to complete the Story Maps tutorial for Media, Culture and Heritage students at Newcastle University.
@@ -107,20 +107,16 @@ _"Etched print of a landscape view of a crane being used to load rollies within 
 ![Heaton Park Mining Celebration](/images/HeatonPark_CoalMining.jpg)
 _Heaton Benath Our Feet Plaque near pavilion at Jesmond Vale Road. Photo Credit: Alex Tarr_
 
-![Heaton's Last Colliery](/images/Heatons_Last_Colliery.jpg
-)
+![Heaton's Last Colliery](/images/Heatons_Last_Colliery.jpg)
 _Heaton Beneath Our Feet plaque reading "Heaton's Last Colliery" on Heaton Park Rd near South View W. Photo Credit: Alex Tarr_
 
-![Heaton's Last Colliery](/images/Heatons_Last_Colliery_cu.jpg
-)
+![Heaton's Last Colliery](/images/Heatons_Last_Colliery_cu.jpg)
 _Heaton Beneath Our Feet plaque reading "Heaton's Last Colliery" on Heaton Park Rd near South View W. Close Up. Photo Credit: Alex Tarr_
 
-![Heaton Mining Disaster](/images/HeatonDisaster.jpg
-)
+![Heaton Mining Disaster](/images/HeatonDisaster.jpg)
 _Heaton Beneath Our Feet plaque reading "Heaton Mining Disaster" on St Teresa's Church in Heaton. Photo Credit: Alex Tarr_
 
-![Heaton Mining Disaster](/images/HeatonDisaster_cu.jpg
-)
+![Heaton Mining Disaster](/images/HeatonDisaster_cu.jpg)
 _Heaton Beneath Our Feet plaque reading "Heaton Mining Disaster" on St Teresa's Church in Heaton. Close Up. Photo Credit: Alex Tarr_
 
 #### Ahsington Group "Pit Painters"
